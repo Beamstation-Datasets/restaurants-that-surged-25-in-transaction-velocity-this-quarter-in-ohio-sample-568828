@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a8a6992e-6ae5-442a-b372-cf71cb1ed182",
+  "id_short": 568828,
+  "published_at": "2026-04-13T19:27:20Z",
+  "repo_name": "restaurants-that-surged-25-in-transaction-velocity-this-quarter-in-ohio-sample-568828",
+  "sample_asset_name": "beamstation_568828_food_and_drink-us-oh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/568828/beamstation_568828_food_and_drink-us-oh_SAMPLE_DIST.csv",
+  "sample_records": 23,
+  "sample_sha256": "fd06923546d048a280ca71a45ccd32fec89643fd7992da48ae3e332bf5aa5f67",
+  "sample_size_bytes": 103637,
+  "total_records": 238
+}
