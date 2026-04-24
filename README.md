@@ -1,6 +1,6 @@
 # Restaurants That Surged 25%+ in Transaction Velocity This Quarter in Ohio
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `568828` |
 | Location | Ohio |
 | Category | Food and Drink |
-| Full dataset size | 189 records |
-| Free sample size | 18 records (9.52%) |
-| Last export | 2026-04-17T00:46:34.907035+00:00 |
+| Full dataset size | 155 records |
+| Free sample size | 15 records (9.68%) |
+| Last export | 2026-04-23T20:14:46.605845+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurants-that-surged-25-in-transaction-velocity-this-quarter-in-ohio-sample-568828/releases/download/sample-latest/beamstation_568828_food_and_drink-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
